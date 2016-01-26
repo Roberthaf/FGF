@@ -1,5 +1,5 @@
 ## FGF
-### FGF or Fabrinogen Gene finder is a software that can be used to predict both fabrinogen 
+### FGF or Fabrinogen Gene finder is a software that can be used to predict both fabrinogen gene and protein products.
 
 #### Description:
 #####	This program is used for predicting the Fibrinogen gene in mammals. Using a conserved exon method we create a
